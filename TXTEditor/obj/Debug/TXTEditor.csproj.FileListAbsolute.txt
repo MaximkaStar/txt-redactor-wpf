@@ -1,0 +1,6 @@
+c:\users\1\source\repos\TXTEditor\TXTEditor\obj\Debug\TXTEditor.csprojResolveAssemblyReference.cache
+c:\users\1\source\repos\TXTEditor\TXTEditor\obj\Debug\MainWindow.g.cs
+c:\users\1\source\repos\TXTEditor\TXTEditor\obj\Debug\Page.g.cs
+c:\users\1\source\repos\TXTEditor\TXTEditor\obj\Debug\App.g.cs
+c:\users\1\source\repos\TXTEditor\TXTEditor\obj\Debug\TXTEditor_MarkupCompile.cache
+c:\users\1\source\repos\TXTEditor\TXTEditor\obj\Debug\TXTEditor_MarkupCompile.lref
